@@ -2,5 +2,11 @@
 	"products": [],
 	"sellers": [],
 	"headers": [],
-	"espots": []
+	"espots": [],
+	"tags": [], // home, work, gaming
+	"categories": [], // laptops,desktops,workstations,tables,gaming
+	"brands": [], // Think, ThinkBook, Lenovo, ideapad, YOGA, LEGION, ThinkStation
+	"types": [], // 2-IN-1, THIN & LIGHT, Gaming, Chromebook
+	"series": [], //  ThinkPad L series
+	"models": [] //  ThinkPad L13 Yoga
 }
